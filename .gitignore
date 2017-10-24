@@ -1,0 +1,12 @@
+notes.txt
+timesheet.xlsx
+
+arch
+
+app/agmts_2016
+app/arbs
+app/lib
+app/arb.xls
+app/conversion.log
+app/master_spreadsheet.xlsx
+app/src/*.pyc
